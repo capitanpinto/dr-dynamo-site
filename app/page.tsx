@@ -33,10 +33,10 @@ export default function Home() {
   // Put the EXACT filenames you have inside /public
   const galleryImages = [
     "/gallery1.jpeg",
-    "/gallery2.png",
+    "/gallery2.jpg",
     "/gallery3.jpeg",
-    "/gallery4.jpg",
-    "/gallery5.png",
+    "/gallery4.jpeg",
+    "/gallery5.jpg",
     "/gallery6.jpeg",
   ];
 

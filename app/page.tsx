@@ -1,5 +1,6 @@
 import { supabaseAdmin } from "@/lib/supabase";
 
+export const dynamic = "force-dynamic";
 async function getApprovedReviews() {
   const { data, error } = await supabaseAdmin
     .from("reviews")
